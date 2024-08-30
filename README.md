@@ -1,2 +1,2 @@
-# Powerby-dashboard-project
-This is a powerby end to end project
+# mini project
+This is a small project made with html  and css
